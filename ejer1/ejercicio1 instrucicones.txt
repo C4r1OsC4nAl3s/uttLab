@@ -1,0 +1,4 @@
+Ejercicio 1. Reutilizacion
+
+Conexion a la BD con POO
+https://www.youtube.com/watch?v=tA40GGmzrKY
